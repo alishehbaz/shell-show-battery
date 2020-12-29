@@ -1,6 +1,6 @@
 # shell-show-battery
 
-## Just a simple bash script which gives you your laptop's battery level
+## I wrote this very basic bash script which gives you your laptop's battery level
 
 ```bash
 cd ~
